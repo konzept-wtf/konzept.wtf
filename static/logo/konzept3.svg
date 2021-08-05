@@ -31,7 +31,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g823" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2">
     <linearGradient
@@ -107,7 +107,9 @@
          x="62.065113"
          y="48.582226">konzept<tspan
    style="font-style:italic;font-size:22.5778px"
-   id="tspan11007">.WTF</tspan></tspan></text>
+   id="tspan11007"><tspan
+   style="font-style:normal"
+   id="tspan318">.</tspan>WTF</tspan></tspan></text>
     <g
        id="g823"
        inkscape:label="toucan-silhouette-stencil-freesvg.org"

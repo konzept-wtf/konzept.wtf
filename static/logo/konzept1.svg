@@ -25,7 +25,7 @@
      showgrid="false"
      inkscape:zoom="1.0305257"
      inkscape:cx="312.94707"
-     inkscape:cy="454.13714"
+     inkscape:cy="454.13715"
      inkscape:window-width="2560"
      inkscape:window-height="1383"
      inkscape:window-x="0"
@@ -50,6 +50,8 @@
          x="62.065113"
          y="48.582226">konzept<tspan
    style="font-style:italic;font-size:22.5778px"
-   id="tspan11007">.WTF</tspan></tspan></text>
+   id="tspan11007"><tspan
+   style="font-style:normal"
+   id="tspan31">.</tspan>WTF</tspan></tspan></text>
   </g>
 </svg>
