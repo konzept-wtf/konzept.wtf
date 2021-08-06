@@ -9,4 +9,6 @@ tags = ["meta", "other"]
 authors = ["sig"]
 +++
 
-Viele fragen sich vieleicht: Wtf ist eigentlich das Konzept hinter konzept.wtf? Und genau das ist das Grundkonzept.
+Viele fragen sich vielleicht: WTF ist eigentlich das Konzept hinter konzept.wtf? Und genau das ist unser Grundkonzept.
+
+![WTF](wtf.svg)
