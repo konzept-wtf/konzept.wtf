@@ -1,0 +1,31 @@
+{% extends "index.html" %}
+
+{% block content %}
+<div class="container">
+    <section>
+        <h2> Tags </h2>
+    </section>
+    <div class="posts">
+        {% for tag in terms %}
+        <section>
+            <a class='header-link' href="/tags/{{tag.slug}}">
+                <h4 class="title"> #{{ tag.name }} ( {{ tag.pages | length }} ) </h4>
+            </a>
+
+            <!-- May clutter the tags page when there are many posts
+            {% for page in tag.pages %}
+            <article>
+                <h3 class="post__title"><a href="{{ page.permalink | safe }}">{{ page.title | safe }}</a></h3>
+                <p>
+                    {{ page.content | safe | striptags | truncate }}
+                </p>
+            </article>
+            {% endfor %}
+            -->
+
+        </section>
+        <hr />
+        {% endfor %}
+    </div>
+</div>
+{% endblock content %}
