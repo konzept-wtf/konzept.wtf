@@ -12,6 +12,21 @@
             <p>
                 <a href="{{ page.path }}">{{ page.description | safe | striptags | truncate }}</a>
             </p>
+            <div class='info'>
+                {% if page.date %}
+                <span>{{ page.date | date(format="%d %B %Y") }}</span>
+                {% endif %}
+                <span class='divider' />
+                <span>{{ page.reading_time }} minute read</span>
+                {% for tag in page.taxonomies.tags %}
+                <span class='divider' />
+                <span>{{tag}}</span>
+                {% endfor %}
+                {% for author in page.taxonomies.authors %}
+                <span class='divider' />
+                <span>by {{author}}</span>
+                {% endfor %}
+            </div>
         </section>
         <hr /> {% endfor %}
     </div>

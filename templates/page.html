@@ -16,15 +16,10 @@
                 <span class='divider' />
                 <span>{{tag}}</span>
                 {% endfor %}
-                {% if page.category %}
+                {% for author in page.taxonomies.authors %}
                 <span class='divider' />
-                <!-- link to page category if user is building categories -->
-                {% if config.generate_categories_pages %}
-                <span><a href="/categories/{{page.category | slugify }}">{{ page.category }}</a></span>
-                {% else %}
-                <span>{{ page.category }}</span>
-                {% endif %}
-                {% endif %}
+                <span>by {{author}}</span>
+                {% endfor %}
             </div>
         </div>
         <article>

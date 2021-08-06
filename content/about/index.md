@@ -9,4 +9,4 @@ tags = ["meta", "other"]
 authors = ["sig"]
 +++
 
-Viele fragen sich vielleicht: Wtf ist eigentlich das Konzept hinter konzept.wtf? Und genau das ist das Grundkonzept.
+Viele fragen sich vieleicht: Wtf ist eigentlich das Konzept hinter konzept.wtf? Und genau das ist das Grundkonzept.

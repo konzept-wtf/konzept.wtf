@@ -1,6 +1,12 @@
 {% extends "feather/templates/index.html" %}
+{% block extra_head %}
+{% endblock extra_head %}
+
 {% block content %}
 <div class="container">
+    <p></p>
+    <p>Posts nach <a href="/tags/">Tags</a> - Posts nach <a href="/authors/">Autoren</a></p>
+    <hr />
     <div class="posts">
         {% for page in section.pages %}
         <section>
@@ -22,15 +28,10 @@
                 <span class='divider' />
                 <span>{{tag}}</span>
                 {% endfor %}
-                {% if page.category %}
+                {% for author in page.taxonomies.authors %}
                 <span class='divider' />
-                <!-- link to page category if user is building categories -->
-                {% if config.generate_categories_pages %}
-                <span><a href="/categories/{{page.category | slugify }}">{{ page.category }}</a></span>
-                {% else %}
-                <span>{{ page.category }}</span>
-                {% endif %}
-                {% endif %}
+                <span>by {{author}}</span>
+                {% endfor %}
             </div>
         </section>
         <hr />
