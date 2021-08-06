@@ -10,6 +10,8 @@ compile_sass = true
 build_search_index = true
 default_language = "de"
 
+paginate_by = 5
+
 theme = "feather"
 
 taxonomies = [

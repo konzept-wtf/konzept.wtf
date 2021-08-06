@@ -9,7 +9,7 @@
             </a>
             <p>
                 <!-- {{ page.content | safe | striptags | truncate }} -->
-                {{ page.description | safe | striptags | truncate }}
+                <a href="{{ page.path }}">{{ page.description | safe | striptags | truncate }}</a>
             </p>
 
             <div class='info'>
