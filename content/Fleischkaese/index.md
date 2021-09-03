@@ -2,11 +2,11 @@
 title = "Käseindustrie ist wütend"
 description = "Konzeptklau der Fleischindustrie?"
 
-date = 2021-08-13
+date = 2021-09-03
 
 [taxonomies]
 tags = ["Satire", "Economy", "german"]
-authors = ["sep"; "sig"]
+authors = ["sep", "sig"]
 +++
 
 Die Fleischproduzenten und Metzgerverbände weisen immer wieder darauf hin, dass die Benennung von Vegiprodukten als "Schnitzel" oder "Wurst" Label- und Konzeptklau sei. Nun haben sie selber Ärger am Hut: Die Käseproduzenten werfen ihnen vor, den Zusatz "Käse" hinter "Fleisch" im beliebten "Fleischkäse" ganz bewusst zu rein marketingtechnsichen Gründen zu verwenden.
