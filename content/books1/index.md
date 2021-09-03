@@ -43,9 +43,9 @@ Im Buch geht es um die Frage, ob das erste von den Menschen beobachtet Interstel
 
 ![Kaffee und Zigaretten](kaffee.jpg)
 
-Für einmal genug Astrophysik. Das Werk von Schriftsteller und Rechtsanwalt [Ferdinand von Schirarch](https://en.wikipedia.org/wiki/Ferdinand_von_Schirach) ist eine Sammlung von Kurzgeschichten und Anektoden. Es geht um Moral, Gerechtigkeit und Schuld. Menschliches, und was es bedeutet, Mensch zu sein. Mitten aus dem Leben, quasi.
+Für einmal genug Astrophysik. Das Werk von Schriftsteller und Rechtsanwalt [Ferdinand von Schirarch](https://en.wikipedia.org/wiki/Ferdinand_von_Schirach) ist eine Sammlung von Kurzgeschichten und Anekdoten. Es geht um Moral, Gerechtigkeit und Schuld. Menschliches, und was es bedeutet, Mensch zu sein. Mitten aus dem Leben, quasi.
 
-Der Autor geniesst inzwischen gewisse Bekanntheit unter den deutschen Schriftstellern. Falls du seine Werke noch nicht kennst, bietet dieses Buch einen guten, abgerundeten Einblick in sein schriftstellerischen Schaffen. Für uns eine Art `literalisches Desert`.
+Der Autor geniesst inzwischen gewisse Bekanntheit unter den deutschen Schriftstellern. Falls du seine Werke noch nicht kennst, bietet dieses Buch einen guten, abgerundeten Einblick in sein schriftstellerischen Schaffen. Für uns eine Art `literarisches Desert`.
 
 * Jahr: 2019
 * ISBN: 978-3-630-87610-8
