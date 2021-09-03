@@ -1,6 +1,6 @@
 +++
 title = "Wie Du dir Beeren ins Maul wirfst"
-description = "Do it like a Tucan"
+description = "Do it like a Toucan!"
 
 date = 2021-09-03
 
