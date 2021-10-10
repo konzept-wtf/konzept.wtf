@@ -16,7 +16,7 @@ Seit einigen Wochen werden Sandstrände von bekannten Urlaubsdestinationen verme
 
 Keanu wohnt bereits sein ganzes Leben auf Hawaii. "Mit Fluten kennen wir uns hier auf Hawaii aus", verrät der Gastronom. "Die sind auch echt super - ohne diese, könnte ich nämlich viel weniger Surfen." Keanu spricht von den regulären Wasserfluten, welche in regelmässigen Abständen die Inseln und Strände befeuchten. Doch seit einigen Wochen kommt es ununterbrochen zu neuen Fluten, welche so gar nicht nass sind: In noch nie da gewesenem Ausmass werden Hawaiis Strände von massenhaft E-Mails überflutet. Und Hawaii ist nicht alleine: Auch andere Strände rund um den Globus berichten von diesem Wetterumschwung.
 
-Offenbar bei allen angespühlten E-Mails klar und deutlich die Endung "G-Mail.com" erkennbar. Ihre Absender und Adressaten seien aus der ganzen Welt, berichten Korrespondenten aus der ganzen Welt.
+Offenbar bei allen angespühlten E-Mails klar und deutlich die Endung "Gmail.com" erkennbar. Ihre Absender und Adressaten seien aus der ganzen Welt, berichten Korrespondenten aus der ganzen Welt.
 "Offenbar hat sich einer unser Mitarbeitenden bei einer Update-Konfiguration vertippt und versehentlich "Versanden" statt "Versenden" eingegeben", meint Google dazu. Das Ergebnis: Seit Wochen versanden E-Mails von G-Mail-Konten, statt versendet zu werden.
 
 # Andere Mail-Provider wollen nachziehen
